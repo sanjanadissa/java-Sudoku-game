@@ -1,4 +1,10 @@
-This project is a graphical Sudoku game implemented in Java using Swing
+# 🎯 Sudoku Game - Java Swing 🎮  
 
-It features a 9x9 grid where users can solve a Sudoku puzzle by selecting numbers from a set of buttons. The puzzle and solution are predefined, and the user can fill in the grid by clicking on the empty cells and selecting numbers. The game tracks errors and displays a victory message once the puzzle is solved correctly. 
+This is a fun and interactive **Sudoku game** built with Java Swing! 🧩✨  
 
+✅ **Features:**  
+🔹 Click to select & fill numbers 🎯  
+🔹 Tracks errors ❌ & highlights correct moves ✅  
+🔹 Victory screen when you solve it! 🎉🏆  
+
+🚀 Ready to play? Run the code and test your Sudoku skills! 🔢😃
